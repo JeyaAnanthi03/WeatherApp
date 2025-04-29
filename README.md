@@ -25,7 +25,7 @@ API: OpenWeatherMap API
 ## 📸 Screenshot
 
 Here's how the weather app looks:
-![Weather App Screenshot](./assets/screenshot.png)
+![Weather App Screenshot](./src/assets/screenshot.png)
 
 ## ⚙️ Functionality Overview
 useState hooks are used to store weather details like temperature, humidity, city name, etc.
